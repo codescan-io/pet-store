@@ -10,6 +10,8 @@
  *  
  */
 
+//Trigger change
+
 global with sharing class BINGOController {
     
     public integer x {get; set;}
